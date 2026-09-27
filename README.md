@@ -4,7 +4,7 @@ Computer Science graduate interested in building practical systems at the inters
 
 I enjoy turning AI concepts into working applications — from retrieval and RAG pipelines to workflow automation and cloud-based AI solutions.
 
-## 🚀 Featured Project
+## Featured Project
 
 ### AI Research Intelligence Agent
 
@@ -28,7 +28,7 @@ An evidence-grounded AI research system that collects technology research and tr
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **AI & Retrieval**  
 Python · RAG · Hugging Face · Sentence Transformers · FAISS
@@ -44,7 +44,7 @@ Git · GitHub · Flutter · Firebase · JavaScript · Dart
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - Microsoft Certified: Azure AI Engineer Associate
 - Microsoft Certified: Azure AI Fundamentals
@@ -52,6 +52,6 @@ Git · GitHub · Flutter · Firebase · JavaScript · Dart
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [LinkedIn](https://linkedin.com/in/aljoryalamoudi)
